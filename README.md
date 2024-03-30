@@ -11,6 +11,7 @@ Nesta tela inserimos o texto, selecionamos o idioma e o recuso Azure que será u
 ![image](https://github.com/noguedes/Language-Studio-Azure-AI/assets/103072294/a180e733-eada-4e73-918d-434c39022b84)
 
 Após executar a operação, o Language Studio irá executar a Análise de Texto, o resultado será uma divição do texto em parágrafos e uma LABLE com porcentagens, indicando se o texto é positivo, neutro ou negativo.
+
 ![image](https://github.com/noguedes/Language-Studio-Azure-AI/assets/103072294/dd4d4362-029c-4fec-aa15-d8146030f9bf)
 
 
