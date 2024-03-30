@@ -7,6 +7,11 @@ Como proposta de atividade estamos utilizando o recurso Sentiment and opinion mi
 
 Para fins de teste e demonstração da funcionalide foi solicitado ao ChatGPT redigir um texto em inglês, este texto é um comentário negativo sobre um curso voltado a IA (o mesmo se encontra no arquivo "Input"). 
 
+Nesta tela inserimos o texto, selecionamos o idioma e o recuso Azure que será utilizado.
 ![image](https://github.com/noguedes/Language-Studio-Azure-AI/assets/103072294/a180e733-eada-4e73-918d-434c39022b84)
 
+Após executar a operação, o Language Studio irá executar a Análise de Texto, o resultado será uma divição do texto em parágrafos e uma LABLE com porcentagens, indicando se o texto é positivo, neutro ou negativo.
+![image](https://github.com/noguedes/Language-Studio-Azure-AI/assets/103072294/dd4d4362-029c-4fec-aa15-d8146030f9bf)
 
+
+![image](https://github.com/noguedes/Language-Studio-Azure-AI/assets/103072294/fed04c4e-7e3b-41ac-911d-ab69f32b3d04)
